@@ -74,6 +74,8 @@ Hospital locator via Google Maps APIs
 
 🔹 Personal Portfolio Website v2.0
 
+https://amit-singh-2006.github.io/Portfolio/
+
 Fully responsive website
 
 Custom cursor, smooth animations, 3D effects
