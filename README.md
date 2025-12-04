@@ -37,9 +37,13 @@ Tools ->	VS Code, Git, GitHub, Google Colab, Antigravity
 🔹 AI Medical Triage Web App
 
 https://github.com/Amit-Singh-2006/triage-bot
+
 Multi-language AI health triage system
+
 Voice-to-text + Text-to-speech conversational interface
+
 FastAPI Backend + 3D animated UI
+
 Hospital locator via Google Maps APIs
 
 
