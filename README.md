@@ -14,7 +14,7 @@
 
 A premium, dark-themed personal portfolio website featuring **3D animations**, **parallax effects**, and a **cinematic intro sequence**. Built to showcase my projects, skills, certifications, and achievements as a B.Tech CSE (AI & ML) student at Lovely Professional University.
 
-> **Live Demo** — _Deploy on GitHub Pages, Vercel, or Netlify to add your link here._
+> **Live Demo** — https://amit-singh-2006.github.io/Portfolio/
 
 ---
 
