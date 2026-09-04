@@ -1,186 +1,64 @@
 %PDF-1.4
-%‚„œ”
+%¬µ¬∂
+
 1 0 obj
-<<
-/Producer (pypdf)
->>
+<</Producer(pypdf)>>
 endobj
+
 2 0 obj
-<<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
->>
+<</Type/Pages/Count 1/Kids[4 0 R]>>
 endobj
-3 0 obj
-<<
-/Type /Catalog
-/Pages 2 0 R
->>
+
+3 1 obj
+<</Type/Catalog/Pages 2 0 R/AF[22 0 R]/Names<</EmbeddedFiles<</Names[(Content Credentials)22 0 R]>>>>/PageMode/UseAttachments>>
 endobj
+
 4 0 obj
-<<
-/Type /Page
-/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R ]
-/Contents 15 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/Font <<
-/F1 16 0 R
-/F1-0 17 0 R
-/F2 18 0 R
-/hebo 19 0 R
-/helv 20 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Parent 2 0 R
->>
+<</Type/Page/Annots[5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R]/Contents[15 0 R 23 0 R 24 0 R 25 0 R 26 0 R]/MediaBox[0 0 595.2756 841.8898]/Resources<</Font<</F1 16 0 R/F1-0 17 0 R/F2 18 0 R/hebo 19 0 R/helv 20 0 R>>/ProcSet[/ImageB/ImageC/ImageI/PDF/Text]>>/Rotate 0/Trans<<>>/Parent 2 0 R>>
 endobj
+
 5 0 obj
-<<
-/Type /Annot
-/Subtype /Link
-/A <<
-/Type /Action
-/S /URI
-/URI (https\072\057\057www\056linkedin\056com\057in\057amit\055singh\055panwar\055917b16379\057)
->>
-/Border [ 0 0 0 ]
-/Rect [ 93.01242 766.0794 310.2732 776.0394 ]
->>
+<</Type/Annot/Subtype/Link/A<</Type/Action/S/URI/URI(https://www.linkedin.com/in/amit-singh-panwar-917b16379/)>>/Border[0 0 0]/Rect[93.01242 766.0794 310.2732 776.0394]>>
 endobj
+
 6 0 obj
-<<
-/Type /Annot
-/Subtype /Link
-/A <<
-/Type /Action
-/S /URI
-/URI (mailto\072amit\056panwar2k6\100gmail\056com)
->>
-/Border [ 0 0 0 ]
-/Rect [ 349.4824 766.0794 454.3031 776.0394 ]
->>
+<</Type/Annot/Subtype/Link/A<</Type/Action/S/URI/URI(mailto:amit.panwar2k6@gmail.com)>>/Border[0 0 0]/Rect[349.4824 766.0794 454.3031 776.0394]>>
 endobj
+
 7 0 obj
-<<
-/Type /Annot
-/Subtype /Link
-/A <<
-/Type /Action
-/S /URI
-/URI (https\072\057\057github\056com\057Amit\055Singh\0552006)
->>
-/Border [ 0 0 0 ]
-/Rect [ 87.46802 755.0794 217.0974 765.0394 ]
->>
+<</Type/Annot/Subtype/Link/A<</Type/Action/S/URI/URI(https://github.com/Amit-Singh-2006)>>/Border[0 0 0]/Rect[87.46802 755.0794 217.0974 765.0394]>>
 endobj
+
 8 0 obj
-<<
-/A <<
-/S /URI
-/URI (https\072\057\057amit\055singh\0552006\056github\056io\057movie\055\055recommendationAPI\057)
->>
-/Rect [ 57 658.8898 251.9931 670.43978 ]
-/BS <<
-/W 0
->>
-/Subtype /Link
-/NM (fitz\055L0)
->>
+<</A<</S/URI/URI(https://amit-singh-2006.github.io/movie--recommendationAPI/)>>/Rect[57 658.8898 251.9931 670.43978]/BS<</W 0>>/Subtype/Link/NM(fitz-L0)>>
 endobj
+
 9 0 obj
-<<
-/A <<
-/S /URI
-/URI (https\072\057\057amit\055singh\0552006\056github\056io\057triage\055bot\057)
->>
-/Rect [ 57 617.8898 156.74985 629.43978 ]
-/BS <<
-/W 0
->>
-/Subtype /Link
-/NM (fitz\055L1)
->>
+<</A<</S/URI/URI(https://amit-singh-2006.github.io/triage-bot/)>>/Rect[57 617.8898 156.74985 629.43978]/BS<</W 0>>/Subtype/Link/NM(fitz-L1)>>
 endobj
+
 10 0 obj
-<<
-/A <<
-/S /URI
-/URI (https\072\057\057amit\055singh\0552006\056github\056io\057Portfolio\057)
->>
-/Rect [ 57 576.8898 203.3409 588.43978 ]
-/BS <<
-/W 0
->>
-/Subtype /Link
-/NM (fitz\055L2)
->>
+<</A<</S/URI/URI(https://amit-singh-2006.github.io/Portfolio/)>>/Rect[57 576.8898 203.3409 588.43978]/BS<</W 0>>/Subtype/Link/NM(fitz-L2)>>
 endobj
+
 11 0 obj
-<<
-/A <<
-/S /URI
-/URI (https\072\057\057blood\055donation\055frontend\055delta\056vercel\056app\057)
->>
-/Rect [ 57 514.8898 281.97416 526.43978 ]
-/BS <<
-/W 0
->>
-/Subtype /Link
-/NM (fitz\055L3)
->>
+<</A<</S/URI/URI(https://blood-donation-frontend-delta.vercel.app/)>>/Rect[57 514.8898 281.97416 526.43978]/BS<</W 0>>/Subtype/Link/NM(fitz-L3)>>
 endobj
+
 12 0 obj
-<<
-/A <<
-/S /URI
-/URI (https\072\057\057www\056linkedin\056com\057in\057amit\055singh\055panwar\055917b16379\057)
->>
-/Rect [ 95 763.8898 535 776.8898 ]
-/BS <<
-/W 0
->>
-/Subtype /Link
-/NM (fitz\055L4)
->>
+<</A<</S/URI/URI(https://www.linkedin.com/in/amit-singh-panwar-917b16379/)>>/Rect[95 763.8898 535 776.8898]/BS<</W 0>>/Subtype/Link/NM(fitz-L4)>>
 endobj
+
 13 0 obj
-<<
-/A <<
-/S /URI
-/URI (https\072\057\057github\056com\057Amit\055Singh\0552006)
->>
-/Rect [ 95 751.8898 220 763.8898 ]
-/BS <<
-/W 0
->>
-/Subtype /Link
-/NM (fitz\055L5)
->>
+<</A<</S/URI/URI(https://github.com/Amit-Singh-2006)>>/Rect[95 751.8898 220 763.8898]/BS<</W 0>>/Subtype/Link/NM(fitz-L5)>>
 endobj
+
 14 0 obj
-<<
-/A <<
-/S /URI
-/URI (mailto\072amit\056panwar2k6\100gmail\056com)
->>
-/Rect [ 320 763.8898 455 776.8898 ]
-/BS <<
-/W 0
->>
-/Subtype /Link
-/NM (fitz\055L6)
->>
+<</A<</S/URI/URI(mailto:amit.panwar2k6@gmail.com)>>/Rect[320 763.8898 455 776.8898]/BS<</W 0>>/Subtype/Link/NM(fitz-L6)>>
 endobj
+
 15 0 obj
-<<
-/Length 11641
->>
+<</Length 11641>>
 stream
 q
 q 1 0 0 1 57.02362 780.0394 cm .188235 .215686 .603922 rg BT 19 TL/F2 17 Tf 1 0 0 1 0 2 Tm (AMIT SINGH PANWAR)Tj T* ET Q q 1 0 0 1 57.02362 765.0394 cm 0 0 0 rg BT 11 TL/F1 8.3 Tf 1 0 0 1 0 2.7 Tm (LinkedIn: )Tj 0 0 .933333 scn (https://www.linkedin.com/in/amit-singh-panwar-917b16379/)Tj 0 0 0 scn (  )Tj ( )Tj ( )Tj (  Email: )Tj 0 0 .933333 scn (amit.panwar2k6@gmail.com)Tj T* ET Q q 1 0 0 1 57.02362 754.0394 cm 0 0 0 rg BT 11 TL/F1 8.3 Tf 1 0 0 1 0 2.7 Tm (GitHub: )Tj 0 0 .933333 scn (https://github.com/Amit-Singh-2006)Tj 0 0 0 scn (  )Tj ( )Tj ( )Tj (  Mobile: +91-7877076804)Tj T* ET Q q 1 0 0 1 57.02362 736.0394 cm .188235 .215686 .603922 rg BT 12 TL/F2 9.8 Tf 1 0 0 1 0 2.2 Tm (SKILLS)Tj T* ET Q q 1 0 0 1 57.02362 733.2394 cm .188235 .215686 .603922 RG 1 J .8 w 0 0 m 481.2283 0 l S Q q 1 0 0 1 57.02362 721.2394 cm 0 0 0 rg BT 9 TL/F2 7.55 Tf 1 0 0 1 0 1.45 Tm <7f2050726f6772616d6d696e673a>Tj/F1 7.55 Tf ( Python, HTML, CSS, JavaScript)Tj T* ET Q q 1 0 0 1 57.02362 711.0394 cm 0 0 0 rg BT 9 TL/F2 7.55 Tf 1 0 0 1 0 1.45 Tm <7f2057656220546563686e6f6c6f676965733a>Tj/F1 7.55 Tf ( HTML, CSS, JavaScript, Tailwind CSS, Node.js, Next.js)Tj T* ET Q q 1 0 0 1 57.02362 700.8394 cm 0 0 0 rg BT 9 TL/F2 7.55 Tf 1 0 0 1 0 1.45 Tm <7f20546f6f6c733a>Tj/F1 7.55 Tf ( VS Code, Git, GitHub, Antigravity, Google Colab)Tj T* ET Q q 1 0 0 1 57.02362 690.6394 cm 0 0 0 rg BT 9 TL/F2 7.55 Tf 1 0 0 1 0 1.45 Tm <7f20536f667420536b696c6c733a>Tj/F1 7.55 Tf ( Communication, Teamwork, Time Management, Problem Solving)Tj T* ET Q q 1 0 0 1 57.02362 674.6394 cm .188235 .215686 .603922 rg BT 12 TL/F2 9.8 Tf 1 0 0 1 0 2.2 Tm (PROJECTS)Tj T* ET Q q 1 0 0 1 57.02362 659.6394 cm 0 0 .933333 rg BT 9.2 TL/F2 7.8 Tf 1 0 0 1 0 1.4 Tm T* ET Q q 1 0 0 1 57.02362 649.6394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 639.6394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 629.6394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 619.4394 cm 0 0 .933333 rg BT 9.2 TL/F2 7.8 Tf 1 0 0 1 0 1.4 Tm T* ET Q q 1 0 0 1 57.02362 609.4394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 599.4394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 589.4394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 579.2394 cm 0 0 .933333 rg BT 9.2 TL/F2 7.8 Tf 1 0 0 1 0 1.4 Tm T* ET Q q 1 0 0 1 57.02362 569.2394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 559.0394 cm .188235 .215686 .603922 rg BT 9.2 TL/F2 7.8 Tf 1 0 0 1 0 1.4 Tm T* ET Q q 1 0 0 1 57.02362 549.0394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 539.0394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 529.0394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 518.8394 cm 0 0 .933333 rg BT 9.2 TL/F2 7.8 Tf 1 0 0 1 0 1.4 Tm T* ET Q q 1 0 0 1 57.02362 508.8394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 498.8394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 488.8394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 472.8394 cm .188235 .215686 .603922 rg BT 12 TL/F2 9.8 Tf 1 0 0 1 0 2.2 Tm T* ET Q q 1 0 0 1 57.02362 458.0394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 448.0394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 438.0394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 428.0394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 418.0394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 402.0394 cm .188235 .215686 .603922 rg BT 12 TL/F2 9.8 Tf 1 0 0 1 0 2.2 Tm T* ET Q q 1 0 0 1 57.02362 387.2394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 377.2394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 367.2394 cm 0 0 0 rg BT 9 TL/F2 7.55 Tf 1 0 0 1 3 1.45 Tm T* ET Q q 1 0 0 1 57.02362 351.2394 cm .188235 .215686 .603922 rg BT 12 TL/F2 9.8 Tf 1 0 0 1 0 2.2 Tm T* ET Q q 1 0 0 1 57.02362 336.2394 cm .188235 .215686 .603922 rg BT 9.2 TL/F2 7.8 Tf 1 0 0 1 0 1.4 Tm T* ET Q q 1 0 0 1 57.02362 327.2394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 0 1.45 Tm T* ET Q q 1 0 0 1 57.02362 317.0394 cm 0 0 0 rg BT 9 TL/F1 7.55 Tf 1 0 0 1 0 1.45 Tm T* ET Q q 1 1 1 rg 1 1 1 RG 55 231.88977 485 441 re B Q q .1882353 .21568628 .6039216 RG .6 w 57 673.8898 m 535 673.8898 l S Q q .1882353 .21568628 .6039216 rg .1882353 .21568628 .6039216 RG BT/hebo 7.55 Tf 1 0 0 1 57 660.8898 Tm[(AI-Powered Movie Recommendation Website | GitHub)]TJ ET Q q 0 0 0 rg 0 0 0 RG BT/helv 7.35 Tf 1 0 0 1 60 650.8898 Tm[<B7204275696C742061206D6F766965207265636F6D6D656E646174696F6E2077656273697465207573696E67206D756C7469706C6520415049732E>]TJ ET Q q 0 0 0 rg 0 0 0 RG BT/helv 7.35 Tf 1 0 0 1 60 640.8898 Tm[<B72041646465642041492D64726976656E2073756D6D61726965732C20334420616E696D6174696F6E732C20616E6420747261696C657220696E746567726174696F6E2E>]TJ ET Q q 0 0 0 rg 0 0 0 RG BT/helv 7.35 Tf 1 0 0 1 60 630.8898 Tm[<B720496D706C656D656E74656420696E74656C6C6967656E74207265636F6D6D656E646174696F6E73206261736564206F6E207573657220707265666572656E6365732E>]TJ ET Q q .1882353 .21568628 .6039216 rg .1882353 .21568628 .6039216 RG BT/hebo 7.55 Tf 1 0 0 1 57 619.8898 Tm[(SehatAI \(Ongoing\) | GitHub)]TJ ET Q q 0 0 0 rg 0 0 0 RG BT/helv 7.35 Tf 1 0 0 1 60 609.8898 Tm[<B72041492D64726976656E207472696167652077697468206D756C74692D6C616E677561676520737570706F72742E>]TJ ET Q q 0 0 0 rg 0 0 0 RG BT/helv 7.35 Tf 1 0 0 1 60 599.8898 Tm[<B720566F6963652D746F2D7465787420616E6420746578742D746F2D7370656563682066756E6374696F6E616C697479207769746820656D657267656E6379206D6F64652E>]TJ ET Q q 0 0 0 rg 0 0 0 RG BT/helv 7.35 Tf 1 0 0 1 60 589.8898 Tm[<B72046617374415049206261636B656E642C20334420616E696D6174696F6E732C20616E6420686F73706974616C206C6F6361746F72207573696E6720476F6F676C65204D617073202B2067656F6C6F636174696F6E2E>]TJ ET Q q .1882353 .21568628 .6039216 rg .1882353 .21568628 .6039216 RG BT/hebo 7.55 Tf 1 0 0 1 57 578.8898 Tm[(Personal Portfolio Website v2.0 | GitHub)]TJ ET Q q 0 0 0 rg 0 0 0 RG BT/helv 7.35 Tf 1 0 0 1 60 568.8898 Tm[<B7204D6F6465726E20726573706F6E7369766520706F7274666F6C696F207769746820334420656666656374732C20637573746F6D20637572736F722C206461726B2D6D6F64652055492C20616E6420616E696D6174696F6E732E>]TJ ET Q q .1882353 .21568628 .6039216 rg .1882353 .21568628 .6039216 RG BT/hebo 7.55 Tf 1 0 0 1 57 557.8898 Tm[(Email Automation)]TJ ET Q q 0 0 0 rg 0 0 0 RG BT/helv 7.35 Tf 1 0 0 1 60 547.8898 Tm[<B72041757468656E74696361746573207769746820476F6F676C65204F4175746820616E6420726561647320756E7265616420656D61696C732E>]TJ ET Q q 0 0 0 rg 0 0 0 RG BT/helv 7.35 Tf 1 0 0 1 60 537.8898 Tm[<B720436C617373696669657320656D61696C7320616E642067656E657261746573206472616674207265706C696573207573696E672061206C6F63616C204C4C4D2E>]TJ ET Q q 0 0 0 rg 0 0 0 RG BT/helv 7.35 Tf 1 0 0 1 60 527.8898 Tm[<B72052756E73206175746F6D61746963616C6C7920696E206120736166652C2068756D616E2D72657669657765642073797374656D2E>]TJ ET Q q .1882353 .21568628 .6039216 rg .1882353 .21568628 .6039216 RG BT/hebo 7.55 Tf 1 0 0 1 57 516.8898 Tm[(Blood Donation Web + AI Agent \(Winning Project\) | Live Demo)]TJ ET Q q 0 0 0 rg 0 0 0 RG BT/helv 7.35 Tf 1 0 0 1 60 506.88978 Tm[<B7204275696C74206120636F6D706C65746520776F726B696E672070726F746F7479706520696E20323420686F7572732E>]TJ ET Q q 0 0 0 rg 0 0 0 RG BT/helv 7.35 Tf 1 0 0 1 60 496.88978 Tm[<B720486F73706974616C206C6F6361746F72207573696E6720476F6F676C65204D617073202B2067656F6C6F636174696F6E2E>]TJ ET Q q 0 0 0 rg 0 0 0 RG BT/helv 7.35 Tf 1 0 0 1 60 486.88978 Tm[<B720466C61736B206261636B656E64202B205461696C77696E6420435353202B2053514C6974652064617461626173652E>]TJ ET Q q Q q Q q Q q Q q Q q Q q Q q Q q Q q Q q Q q Q q Q q Q q Q q Q q Q q Q q Q q Q
@@ -417,89 +295,29 @@ Q
 
 endstream
 endobj
+
 16 0 obj
-<<
-/Type /Font
-/Subtype /Type1
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
->>
+<</Type/Font/Subtype/Type1/BaseFont/Helvetica/Encoding/WinAnsiEncoding/Name/F1>>
 endobj
+
 17 0 obj
-<<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
->>
+<</Type/Font/Subtype/Type1/BaseFont/Helvetica/Encoding/WinAnsiEncoding/Name/F1>>
 endobj
+
 18 0 obj
-<<
-/Type /Font
-/Subtype /Type1
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
->>
+<</Type/Font/Subtype/Type1/BaseFont/Helvetica-Bold/Encoding/WinAnsiEncoding/Name/F2>>
 endobj
+
 19 0 obj
-<<
-/Type /Font
-/Subtype /Type1
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
->>
+<</Type/Font/Subtype/Type1/BaseFont/Helvetica-Bold/Encoding/WinAnsiEncoding>>
 endobj
+
 20 0 obj
-<<
-/Type /Font
-/Subtype /Type1
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
->>
+<</Type/Font/Subtype/Type1/BaseFont/Helvetica/Encoding/WinAnsiEncoding>>
 endobj
-xref
-0 21
-0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000500 00000 n 
-0000000741 00000 n 
-0000000936 00000 n 
-0000001143 00000 n 
-0000001369 00000 n 
-0000001579 00000 n 
-0000001785 00000 n 
-0000001997 00000 n 
-0000002215 00000 n 
-0000002399 00000 n 
-0000002572 00000 n 
-0000014267 00000 n 
-0000014375 00000 n 
-0000014483 00000 n 
-0000014596 00000 n 
-0000014699 00000 n 
-trailer
-<<
-/Size 21
-/Root 3 0 R
-/Info 1 0 R
->>
-startxref
-14797
-%%EOF
-3 1 obj
-<<
-/Type /Catalog
-/Pages 2 0 R
- /AF [22 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 22 0 R] >> >> >>
-endobj
+
 21 0 obj
-<< /Length 24280 /F << /Subtype (application/c2pa) /Length 24280 >> >>
+<</Length 24280/F<</Subtype(application/c2pa)/Length 24280>>>>
 stream
   ^ÿjumb   jumdc2pa  Ä  ™ 8õqc2pa   ^≤jumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:02ea1814-300f-4d25-82f1-1db799bbf6d8   ¢jumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
@@ -571,17 +389,86 @@ S[ëÊR/Ù∑O3e(ÿ°¥<œtFªèã≤Ö‹õ4D‡≥˘Ú¸ı–÷˚Y9ÆFœƒµ•ú8ÕòÀZ©¥wÁΩï(AÜˆÂ M£ùƒá
 QYŒ≤ï4è]nnn
 endstream
 endobj
+
 22 0 obj
-<< /AFRelationship /C2PA_Manifest /Desc (Content Credentials) /F (Content Credentials) /EF << /F 21 0 R >> /Subtype (application/c2pa) /Type /FileSpec /UF (Content Credentials) >>
+<</Type/FileSpec/Subtype(application/c2pa)/AFRelationship/C2PA_Manifest/Desc(Content Credentials)/F(Content Credentials)/EF<</F 21 0 R>>/UF(Content Credentials)>>
 endobj
+
+23 0 obj
+<</Length 40>>
+stream
+
+q
+56 272.88978 99 12 re
+h
+1 1 1 rg f
+Q
+
+endstream
+endobj
+
+24 0 obj
+<</Length 93/Filter/FlateDecode>>
+stream
+x⁄„*‰r
+·2T0 BCSs#sc=3KssÖê\.˝å‘ú2s=Öê4∞Ö w(£(]!⁄∆ƒ“,’‹ƒÃ‘‹»,≈Ã‘ÃƒÃ“Ãƒ∑ãÒ‚r·
+‰ Ô
+endstream
+endobj
+
+25 0 obj
+<</Length 40>>
+stream
+
+q
+56 239.88977 49 12 re
+h
+1 1 1 rg f
+Q
+
+endstream
+endobj
+
+26 0 obj
+<</Length 93/Filter/FlateDecode>>
+stream
+x⁄„*‰r
+·2T0 BCSs#=KKsÖê\.˝å‘ú2s=Öê4∞Ö w(£(]!⁄∆$≈Ã–‹ƒ‹»Ã“Ãÿ‹‘,ƒ≤”ÃRÌbCº∏\C∏π *ﬂ
+endstream
+endobj
+
 xref
-3 1
-0000015296 00001 n 
-21 2
-0000015431 00000 n 
-0000039816 00000 n 
+0 27
+0000000000 65535 f 
+0000000016 00000 n 
+0000000053 00000 n 
+0000000105 00001 n 
+0000000249 00000 n 
+0000000581 00000 n 
+0000000768 00000 n 
+0000000930 00000 n 
+0000001095 00000 n 
+0000001266 00000 n 
+0000001424 00000 n 
+0000001581 00000 n 
+0000001744 00000 n 
+0000001907 00000 n 
+0000002048 00000 n 
+0000002187 00000 n 
+0000013881 00000 n 
+0000013979 00000 n 
+0000014077 00000 n 
+0000014180 00000 n 
+0000014275 00000 n 
+0000014365 00000 n 
+0000038743 00000 n 
+0000038923 00000 n 
+0000039013 00000 n 
+0000039175 00000 n 
+0000039265 00000 n 
+
 trailer
-<< /Size 23 /Root 3 1 R /Prev 14797 >>
+<</Size 27/Root 3 1 R/ID[<C29735C39BC28EC289C2B74A7B03C389><EC36D9524BBE4A8AC3D28BB17CCECCCB>]>>
 startxref
-40012
+39427
 %%EOF
